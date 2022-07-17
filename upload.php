@@ -1,3 +1,3 @@
 <?php
-file_put_contents('файл.txt',$_GET['text']);
+file_put_contents('test.txt',$_GET['text']);
 ?>
